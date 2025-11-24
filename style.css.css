@@ -1,0 +1,33 @@
+body{
+	color: DarkViolet;
+	color: #9400D3; 
+    background-color:lightgreen;
+
+    font-size: 24px;
+}
+
+a {
+	color:indigo;
+}
+b {
+	color:indigo;
+}
+h1 {
+	font-family:arial;
+	border-width: 1px;
+	border-style: solid;
+}
+
+p {
+	font-family: georgia;
+}
+
+p {
+	font-family: arial;
+	font-size: 1.2em;
+	/*font-size: 12px;*/
+}
+div#container {
+	margin:0 auto;
+	max-width:800px;
+}
